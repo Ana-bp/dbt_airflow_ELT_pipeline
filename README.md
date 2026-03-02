@@ -1,4 +1,4 @@
-# End-to-End Data Pipeline with dbt, Airflow & Snowflake
+# ELT Data Pipeline with dbt, Airflow & Snowflake
 
 This repository contains a ELT (Extract, Load, Transform) pipeline project that utilizes Snowflake as a cloud data warehouse, dbt for transformations, and Airflow for orchestration.
 
