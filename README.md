@@ -123,9 +123,4 @@ The DAG:
 
 
 
-It reflects skills in:
-- Data modeling
-- Transformation frameworks
-- Workflow orchestration
-- Environment isolation
-- Data quality enforcement
+You can find the hands-on tutorial for this project on https://youtu.be/OLXkGB7krGo?si=ULW_YgLg9dgqYOg-
